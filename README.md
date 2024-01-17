@@ -8,7 +8,7 @@
 
 ![B](media/B.png)
 
-## 3. Halo
+## 3. Halo activity
 
 ![A](media/A.png)
 
@@ -20,7 +20,7 @@
 
 ![4](media/4.jpg)
 
-## 6. Fibonacci
+## 6. Fibonacci / Count
 
 ![E](media/E.jpg)
 
