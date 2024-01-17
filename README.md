@@ -41,3 +41,7 @@ Kelas : TI.22.A2
 ## 9. Movie
 
 ![10](media/10.jpg)
+
+# Laporan UAS (PDF)
+
+SOON hehehe
