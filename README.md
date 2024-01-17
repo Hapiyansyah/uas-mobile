@@ -6,7 +6,7 @@
 
 ## 2. Menu utama
 
-![B](media/B.jpg)
+![B](media/B.png)
 
 ## 3. Halo
 
