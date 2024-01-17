@@ -10,11 +10,11 @@
 
 ## 3. Halo
 
-![A](media/A.jpg)
+![A](media/A.png)
 
 ## 4. Two Activity
 
-![C](media/C.jpg)
+![C](media/C.png)
 
 ## 5. Kasus Sianida
 
