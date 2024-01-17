@@ -10,7 +10,7 @@
 
 ## 3. Two Activity
 
-![3](media/3.jpg)
+![C](media/C.jpg)
 
 ## 4. Kasus Sianida
 
@@ -18,7 +18,7 @@
 
 ## 5. Fibonacci
 
-![5](media/5.jpg)
+![E](media/E.jpg)
 
 ## 6. Alarm
 
@@ -28,6 +28,6 @@
 
 ## 9. Google maps
 
-![9](media/9.jpg)
+![I](media/I.jpg)
 
 ## 8. 
