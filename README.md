@@ -1,10 +1,16 @@
 # uas-mobile
 
-## 1. Launcher splash
+```
+Nama  : Mohammad Hapiyansyah
+NIM   : 312210243
+Kelas : TI.22.A2
+```
+
+##  Logo
 
 ![1](media/1.jpg)
 
-## 2. Menu utama
+##  Menu utama
 
 ![B](media/B.png)
 
