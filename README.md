@@ -14,7 +14,7 @@
 
 ## 4. Two Activity
 
-![C](media/C.png)
+![C](media/C.jpg)
 
 ## 5. Kasus Sianida
 
