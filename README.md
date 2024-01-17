@@ -8,26 +8,29 @@
 
 ![2](media/2.jpg)
 
-## 3. Two Activity
+## 3. Halo
+
+
+
+## 4. Two Activity
 
 ![C](media/C.jpg)
 
-## 4. Kasus Sianida
+## 5. Kasus Sianida
 
 ![4](media/4.jpg)
 
-## 5. Fibonacci
+## 6. Fibonacci
 
 ![E](media/E.jpg)
 
-## 6. Alarm
+## 7. Alarm
 
-![6](media/6.jpg)
+![F](media/F.jpg)
 
-## 7. 
-
-## 9. Google maps
+## 8. Google maps
 
 ![I](media/I.jpg)
+ 
+## 9. Movie
 
-## 8. 
