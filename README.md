@@ -6,11 +6,11 @@
 
 ## 2. Menu utama
 
-![2](media/2.jpg)
+![B](media/B.jpg)
 
 ## 3. Halo
 
-
+![A](media/A.jpg)
 
 ## 4. Two Activity
 
@@ -34,3 +34,4 @@
  
 ## 9. Movie
 
+![10](media/10.jpg)
