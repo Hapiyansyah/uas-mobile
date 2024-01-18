@@ -46,4 +46,4 @@ Kelas : TI.22.A2
 
 # Laporan UAS (PDF)
 
-SOON hehehe
+laporan nya ada di atas pak...
