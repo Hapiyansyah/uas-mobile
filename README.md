@@ -42,6 +42,8 @@ Kelas : TI.22.A2
 
 ![10](media/10.jpg)
 
+![Z](media/Z.jpg)
+
 # Laporan UAS (PDF)
 
 SOON hehehe
