@@ -46,4 +46,4 @@ Kelas : TI.22.A2
 
 # Laporan UAS (PDF)
 
-laporan nya ada di atas pak...
+https://github.com/Hapiyansyah/uas-mobile/blob/b60556a6a3a6a7be170d861a807a78a36c06c7d1/laporan-uas-mobile.pdf
